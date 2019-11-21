@@ -1,5 +1,5 @@
-# fan_hockey
-# This repo will hold data to go along with a series of blog posts on fantasy hockey analysis.
+# PanOliver/fan_hockey
+# This repo has been forked from Scibbatical. Big thanks to his contributions.
 
 
 check out part 1:
